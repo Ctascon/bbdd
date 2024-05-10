@@ -1,2 +1,2 @@
 # bbdd
-este es el repositorio del CP inicial
+Este es el repositorio del CP inicial
